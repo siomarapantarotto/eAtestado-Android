@@ -26,6 +26,7 @@ This application offers to medical professionals innovative solutions to issue m
 
 ## Contact us
 Whether you are a doctor or have a business related to the medical field and would like to know more about this product, please contact us.
+
 Thanks!
 
 <!-- FOOTER (Author / Visit My Online Resume / Download My PDF Resume) -->
